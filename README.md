@@ -1,5 +1,15 @@
 # Tecnical test / Back-end
 
+Link de repositorios para pruebas front y back: 
+
+Back: https://github.com/juanda2024/red-valley-test-backtend/blob/main/README.md
+
+Front: https://github.com/juanda2024/red-valley-test-frontend/blob/main/README.md
+
+En cada repo, en el README, dejo instrucciones de uso, links de resultado desplegado y demás
+
+David M. 
+
 ## Testing you tecnical skills
     - General programing concepts questions (verbal)
 
